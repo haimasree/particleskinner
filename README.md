@@ -1,7 +1,7 @@
 Thanks for downloading this code.  We hope you find it useful.  We'd really like to see this code get used so if you have any questions don't hesitate to contact us at:
 
 Adam Bargteil (adamb@cs.utah.edu) or
-Haimasree Bhattacharya (hb123@cs.utah.edu)
+Haimasree Bhattacharya (haimasreeb@gmail.com)
 
 OpenVDB and its denedencies (Boost, OpenEXR, TBB) need to be installed to compile this code. You can get the latest version from http://www.openvdb.org/download/. This code has been tested with version 2.1.0.  You may need to set the path to OpenVDB at the top of the makefile.
 
