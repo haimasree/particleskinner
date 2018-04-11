@@ -10,3 +10,6 @@ You will probably need to edit particleIO.cpp to handle your particle file forma
 Most of the code has been pretty well tested.  The variable radius code has been less so. We think the knobs we've provided are reasonable, but its hard to say for certain.  Some of the knobs conflict with each other.  In this case the behavior is undefined :)
 
 Cheers.
+
+## Reference
+https://cal.cs.umbc.edu/Papers/Bhattacharya-2015-ALM/
